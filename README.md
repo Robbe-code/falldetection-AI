@@ -9,4 +9,5 @@ Contribute:
 Help improve the model by contributing your own photos!
 
 Upload images to the correct folder (dataset/fallen or dataset/safe).
+Please only add correct images.
 
