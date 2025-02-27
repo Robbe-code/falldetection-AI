@@ -1,4 +1,5 @@
 Fall Detection AI
+https://teachablemachine.withgoogle.com/models/gG4Cii5io/ 
 This project uses AI to detect when a person falls. 
 It was trained using LEGO-figures but we would love to expand it for real people!
 It’s trained with images categorized as:
