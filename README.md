@@ -1,9 +1,9 @@
-LEGO Fall Detection AI
-This project uses AI to detect when a LEGO figure falls. 
-
+Fall Detection AI
+This project uses AI to detect when a person falls. 
+It was trained using LEGO-figures but we would love to expand it for real people!
 It’s trained with images categorized as:
-  Fallen – LEGO figures lying down
-  Safe – LEGO figures standing upright
+  Fallen – person lying down
+  Safe – person standing upright
   
 Contribute:
 Help improve the model by contributing your own photos!
